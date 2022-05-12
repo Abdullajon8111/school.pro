@@ -16,11 +16,11 @@ class ASchoolClass extends Model
 
     public function school(): BelongsTo
     {
-        return $this->belongsTo(ASchool::class, 'school_id');
+        return $this->belongsTo(ASchool::class);
     }
 
     public function class(): BelongsTo
     {
-        return $this->belongsTo(SClass::class, 'class_id');
+        return $this->belongsTo(SClass::class);
     }
 }
