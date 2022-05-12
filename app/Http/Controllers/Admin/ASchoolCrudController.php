@@ -31,16 +31,16 @@ class ASchoolCrudController extends CrudController
     {
         CRUD::column('id');
         CRUD::column('name');
-        CRUD::column('s_province_id');
-        CRUD::column('s_district_id');
-        CRUD::column('s_language_type_id');
-        CRUD::column('s_type_foreign_language_id');
-        CRUD::column('s_subject_id');
-        CRUD::column('s_location_type_id');
+        CRUD::column('province');
+        CRUD::column('district');
+        CRUD::column('language_type');
+        CRUD::column('foreign_language');
+        CRUD::column('subject');
+        CRUD::column('location_type');
         CRUD::column('create_year');
         CRUD::column('update_year');
-        CRUD::column('s_in_turn_id');
-        CRUD::column('s_school_status_id');
+        CRUD::column('in_turn');
+        CRUD::column('school_status');
         CRUD::column('comment');
     }
 
@@ -49,16 +49,16 @@ class ASchoolCrudController extends CrudController
         CRUD::setValidation(ASchoolRequest::class);
 
         CRUD::field('name');
-        CRUD::field('s_province_id');
-        CRUD::field('s_district_id');
-        CRUD::field('s_language_type_id');
-        CRUD::field('s_type_foreign_language_id');
-        CRUD::field('s_subject_id');
-        CRUD::field('s_location_type_id');
+        CRUD::field('province');
+        CRUD::field('district');
+        CRUD::field('language_type');
+        CRUD::field('foreign_language');
+        CRUD::field('subject');
+        CRUD::field('location_type');
         CRUD::field('create_year');
         CRUD::field('update_year');
-        CRUD::field('s_in_turn_id');
-        CRUD::field('s_school_status_id');
+        CRUD::field('in_turn');
+        CRUD::field('school_status');
         CRUD::field('comment');
     }
 

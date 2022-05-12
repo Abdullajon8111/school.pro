@@ -30,8 +30,8 @@ class ASchoolClassCrudController extends CrudController
     protected function setupListOperation()
     {
         CRUD::column('id');
-        CRUD::column('a_school_id');
-        CRUD::column('s_class_id');
+        CRUD::column('school');
+        CRUD::column('class');
         CRUD::column('boys_count');
         CRUD::column('girls_count');
 
@@ -41,8 +41,8 @@ class ASchoolClassCrudController extends CrudController
     {
         CRUD::setValidation(ASchoolClassRequest::class);
 
-        CRUD::field('a_school_id');
-        CRUD::field('s_class_id');
+        CRUD::field('school');
+        CRUD::field('class');
         CRUD::field('boys_count');
         CRUD::field('girls_count');
 
