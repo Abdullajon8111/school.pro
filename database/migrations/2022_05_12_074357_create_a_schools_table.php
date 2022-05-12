@@ -17,17 +17,17 @@ return new class extends Migration
             $table->id();
 
             $table->string('name');
-            $table->foreignIdFor(\App\Models\SProvince::class, 'province')->index();
-            $table->foreignIdFor(\App\Models\SDistrict::class, 'district')->index();
-            $table->foreignIdFor(\App\Models\SLanguageType::class, 'language_type')->index();
-            $table->foreignIdFor(\App\Models\STypeForeignLanguage::class, 'foreign_language')->index();
-            $table->foreignIdFor(\App\Models\SSubject::class, 'subject_high')->index();
-            $table->foreignIdFor(\App\Models\SLocationType::class, 'location_type')->index();
+            $table->foreignIdFor(\App\Models\SProvince::class)->index();
+            $table->foreignIdFor(\App\Models\SDistrict::class)->index();
+            $table->foreignIdFor(\App\Models\SLanguageType::class)->index();
+            $table->foreignIdFor(\App\Models\STypeForeignLanguage::class)->index();
+            $table->foreignIdFor(\App\Models\SSubject::class)->index();
+            $table->foreignIdFor(\App\Models\SLocationType::class)->index();
             $table->date('create_year');
             $table->date('update_year');
 
-            $table->foreignIdFor(\App\Models\SInTurn::class, 'in_turn')->index();
-            $table->foreignIdFor(\App\Models\SSchoolStatus::class, 'status')->index();
+            $table->foreignIdFor(\App\Models\SInTurn::class)->index();
+            $table->foreignIdFor(\App\Models\SSchoolStatus::class)->index();
 
             $table->string('comment')->nullable();
 

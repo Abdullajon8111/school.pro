@@ -15,8 +15,8 @@ return new class extends Migration
     {
         Schema::create('a_school_classes', function (Blueprint $table) {
             $table->id();
-            $table->foreignIdFor(\App\Models\ASchool::class, 'school_id')->index();
-            $table->foreignIdFor(\App\Models\SClass::class, 'class_id')->index();
+            $table->foreignIdFor(\App\Models\ASchool::class)->index();
+            $table->foreignIdFor(\App\Models\SClass::class)->index();
             $table->integer('boys_count');
             $table->integer('girls_count');
             $table->timestamps();
