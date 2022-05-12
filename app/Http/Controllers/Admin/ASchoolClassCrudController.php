@@ -3,26 +3,33 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Requests\ASchoolClassRequest;
+use App\Models\ASchoolClass;
 use Backpack\CRUD\app\Http\Controllers\CrudController;
+use Backpack\CRUD\app\Http\Controllers\Operations\CreateOperation;
+use Backpack\CRUD\app\Http\Controllers\Operations\DeleteOperation;
+use Backpack\CRUD\app\Http\Controllers\Operations\ListOperation;
+use Backpack\CRUD\app\Http\Controllers\Operations\ShowOperation;
+use Backpack\CRUD\app\Http\Controllers\Operations\UpdateOperation;
+use Backpack\CRUD\app\Library\CrudPanel\CrudPanel;
 use Backpack\CRUD\app\Library\CrudPanel\CrudPanelFacade as CRUD;
 
 /**
  * Class ASchoolClassCrudController
  * @package App\Http\Controllers\Admin
- * @property-read \Backpack\CRUD\app\Library\CrudPanel\CrudPanel $crud
+ * @property-read CrudPanel $crud
  */
 class ASchoolClassCrudController extends CrudController
 {
-    use \Backpack\CRUD\app\Http\Controllers\Operations\ListOperation;
-    use \Backpack\CRUD\app\Http\Controllers\Operations\CreateOperation;
-    use \Backpack\CRUD\app\Http\Controllers\Operations\UpdateOperation;
-    use \Backpack\CRUD\app\Http\Controllers\Operations\DeleteOperation;
-    use \Backpack\CRUD\app\Http\Controllers\Operations\ShowOperation;
+    use ListOperation;
+    use CreateOperation;
+    use UpdateOperation;
+    use DeleteOperation;
+    use ShowOperation;
 
 
     public function setup()
     {
-        CRUD::setModel(\App\Models\ASchoolClass::class);
+        CRUD::setModel(ASchoolClass::class);
         CRUD::setRoute(config('backpack.base.route_prefix') . '/a-school-class');
         CRUD::setEntityNameStrings('a school class', 'a school classes');
     }
@@ -37,6 +44,11 @@ class ASchoolClassCrudController extends CrudController
 
     }
 
+    protected function setupUpdateOperation()
+    {
+        $this->setupCreateOperation();
+    }
+
     protected function setupCreateOperation()
     {
         CRUD::setValidation(ASchoolClassRequest::class);
@@ -46,11 +58,5 @@ class ASchoolClassCrudController extends CrudController
         CRUD::field('boys_count');
         CRUD::field('girls_count');
 
-    }
-
-
-    protected function setupUpdateOperation()
-    {
-        $this->setupCreateOperation();
     }
 }
