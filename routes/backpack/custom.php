@@ -16,6 +16,7 @@ Route::group([
     ),
     'namespace'  => 'App\Http\Controllers\Admin',
 ], function () { // custom admin routes
+
     Route::crud('a-school', 'ASchoolCrudController');
     Route::crud('a-school-class', 'ASchoolClassCrudController');
     Route::crud('s-class', 'SClassCrudController');
