@@ -29,7 +29,7 @@ class ASchool extends Model
 
     public function foreign_language(): BelongsTo
     {
-        return $this->belongsTo(STypeForeignLanguage::class, 'foreign_language')''
+        return $this->belongsTo(STypeForeignLanguage::class, 'foreign_language');
     }
 
     public function subject_high(): BelongsTo
