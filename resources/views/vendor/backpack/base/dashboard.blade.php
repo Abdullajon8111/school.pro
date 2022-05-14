@@ -52,6 +52,18 @@
                 10ж-смена
             </a>
         </li>
+
+        <li class="nav-item">
+            <a class="nav-link" id="pills-tab-11" data-toggle="pill" href="#pills-11" role="tab">
+                11ж-коэф.т
+            </a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link" id="pills-tab-12" data-toggle="pill" href="#pills-12" role="tab">
+                12ж-қувват+ўқувчи
+            </a>
+        </li>
     </ul>
 
     <div class="tab-content shadow mb-5" id="pills-tabContent">
@@ -93,6 +105,14 @@
 
         <div class="tab-pane fade" id="pills-10" role="tabpanel">
             @include('dashboard.tab-10.tab')
+        </div>
+
+        <div class="tab-pane fade" id="pills-11" role="tabpanel">
+            @include('dashboard.tab-11.tab')
+        </div>
+
+        <div class="tab-pane fade" id="pills-12" role="tabpanel">
+            @include('dashboard.tab-12.tab')
         </div>
     </div>
 
