@@ -27,8 +27,34 @@
                 5ж-жойлашув
             </a>
         </li>
+        <li class="nav-item">
+            <a class="nav-link" id="pills-tab-6" data-toggle="pill" href="#pills-6" role="tab">
+                6ж-филиал
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="pills-tab-7" data-toggle="pill" href="#pills-7" role="tab">
+                7ж-қизлар
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="pills-tab-8" data-toggle="pill" href="#pills-8" role="tab">
+                8ж-чет тили
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="pills-tab-9" data-toggle="pill" href="#pills-9" role="tab">
+                9ж-бошқа чет тили
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="pills-tab-10" data-toggle="pill" href="#pills-10" role="tab">
+                10ж-смена
+            </a>
+        </li>
     </ul>
-    <div class="tab-content" id="pills-tabContent">
+
+    <div class="tab-content shadow mb-5" id="pills-tabContent">
         <div class="tab-pane fade show active" id="pills-1" role="tabpanel">
             @include('dashboard.tab-1.tab')
         </div>
@@ -47,6 +73,26 @@
 
         <div class="tab-pane fade" id="pills-5" role="tabpanel">
             @include('dashboard.tab-5.tab')
+        </div>
+
+        <div class="tab-pane fade" id="pills-6" role="tabpanel">
+            @include('dashboard.tab-6.tab')
+        </div>
+
+        <div class="tab-pane fade" id="pills-7" role="tabpanel">
+            @include('dashboard.tab-7.tab')
+        </div>
+
+        <div class="tab-pane fade" id="pills-8" role="tabpanel">
+            @include('dashboard.tab-8.tab')
+        </div>
+
+        <div class="tab-pane fade" id="pills-9" role="tabpanel">
+            @include('dashboard.tab-9.tab')
+        </div>
+
+        <div class="tab-pane fade" id="pills-10" role="tabpanel">
+            @include('dashboard.tab-10.tab')
         </div>
     </div>
 
