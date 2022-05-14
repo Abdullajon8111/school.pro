@@ -30,4 +30,5 @@ Route::group([
     Route::crud('s-school-type', 'SSchoolTypeCrudController');
     Route::crud('s-subject', 'SSubjectCrudController');
     Route::crud('s-type-foreign-language', 'STypeForeignLanguageCrudController');
+
 }); // this should be the absolute last line of this file
