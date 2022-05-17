@@ -25,11 +25,15 @@
         </div>
 
         <div class="tab-pane fade show active" id="pills-school" role="tabpanel">
-            School
+            @include('home-page.school.index')
         </div>
 
         <div class="tab-pane fade" id="pills-universities" role="tabpanel">
             Universities
         </div>
     </div>
+@endsection
+
+@section('after_scripts')
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 @endsection
