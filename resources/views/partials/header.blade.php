@@ -7,7 +7,7 @@
         <div class="col-lg-6">
             <div class="d-flex">
                 <img src="{{ asset('images/gerb.png') }}" alt="gerb" height="80">
-                <img class="ml-3" src="{{ asset('images/flag.png') }}" alt="gerb" height="80">
+                <img class="ml-3" src="{{ asset('images/flag.png') }}" alt="flag" height="80">
                 <h6 class="ml-3 my-auto"> O‘ZBЕKISTON RЕSPUBLIKASI <br>
                     VAZIRLAR MAHKAMASI HUZURIDAGI <br>
                     TA’LIM SIFATINI NAZORAT QILISH <br>
