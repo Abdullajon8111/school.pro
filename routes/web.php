@@ -13,8 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('home-page.index');
-});
-
+Route::redirect('/', 'school');
 Route::view('school', 'school.index');
