@@ -8,7 +8,8 @@
             <div class="d-flex">
                 <img src="{{ asset('images/gerb.png') }}" alt="gerb" height="80">
                 <img class="ml-3" src="{{ asset('images/flag.png') }}" alt="flag" height="80">
-                <h6 class="ml-3 my-auto"> O‘ZBЕKISTON RЕSPUBLIKASI <br>
+                <h6 class="ml-3 my-auto">
+                    O‘ZBЕKISTON RЕSPUBLIKASI <br>
                     VAZIRLAR MAHKAMASI HUZURIDAGI <br>
                     TA’LIM SIFATINI NAZORAT QILISH <br>
                     DAVLAT INSPЕKSIYASI
@@ -73,7 +74,7 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav text-center">
                 <a class="nav-link" href="#">Maktabgacha ta'lim muassasalari </a>
-                <a class="nav-link" href="#">Umumiy o'rta talim muassasalari</a>
+                <a class="nav-link" href="{{ route('school.index') }}">Umumiy o'rta talim muassasalari</a>
                 <a class="nav-link" href="#">O'rta-maxsus ta'lim muassasalari</a>
                 <a class="nav-link" href="#">Oliy ta'lim ta'lim muassasalari</a>
                 <a class="nav-link" href="#">Malaka oshirish institutlari</a>
