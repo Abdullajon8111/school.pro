@@ -1,13 +1,3 @@
-@push('after_styles')
-    <style>
-        .nav-link:focus,
-        .nav-link:hover {
-            color: rgba(22, 28, 45, .7);
-            border-bottom: 1px solid #7c69ef
-        }
-    </style>
-@endpush
-
 <div class="bg-primary" style="height: 29px">
 
 </div>

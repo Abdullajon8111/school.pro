@@ -3,8 +3,16 @@
 <head>
     <link rel="stylesheet" href="{{ asset('packages/line-awesome/dist/font-awesome-line-awesome/css/all.min.css') }}">
     @include(backpack_view('inc.head'))
-    @yield('after_styles')
-    @stack('after_styles')
+    <style>
+        .navbar {
+            box-sizing: border-box;
+        }
+
+        .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+            color: rgba(22, 28, 45, .7);
+            border-bottom: 3px solid #7c69ef
+        }
+    </style>
 </head>
 <body class="app aside-menu-fixed">
 
