@@ -38,8 +38,6 @@
 </head>
 <body class="app aside-menu-fixed">
 
-@include('partials.main-header')
-
 <div class="container-fluid p-5">
     @yield('content')
 </div>
