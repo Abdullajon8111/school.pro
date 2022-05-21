@@ -1,9 +1,9 @@
-<canvas id="chart-2" width="400" height="400"></canvas>
+<canvas id="chart-dashboard-2" width="400" height="400"></canvas>
 
 @push('after_scripts')
 <script>
-    const ctx2 = document.getElementById('chart-2').getContext('2d');
-    const chart2 = new Chart(ctx2, {
+    const ctxDashboard2 = document.getElementById('chart-dashboard-2').getContext('2d');
+    new Chart(ctxDashboard2, {
         type: 'bar',
         data: {
             labels: [

@@ -1,9 +1,8 @@
-<canvas id="chart-8" width="400" height="400"></canvas>
+<canvas id="chart-dashboard-8" width="400" height="400"></canvas>
 
 @push('after_scripts')
     <script>
-        const ctx8 = document.getElementById('chart-8').getContext('2d');
-        const chart8 = new Chart(ctx8, {
+        new Chart(document.getElementById('chart-dashboard-8').getContext('2d'), {
             type: 'bar',
             data: {
                 labels: [
