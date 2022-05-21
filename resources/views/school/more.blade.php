@@ -1,8 +1,6 @@
-@extends('layouts.master')
-
-@section('content')
+<div class="container-fluid px-5">
     <div class="row">
-        <div class="col-2 card card-body">
+        <div class="col-2">
             <ul class="nav flex-column nav-pills mb-3" id="pills-tab" role="tablist" aria-orientation="vertical">
                 <li class="nav-item">
                     <a class="nav-link active" id="pills-tab-1" data-toggle="pill" href="#pills-1" role="tab">
@@ -70,7 +68,7 @@
         </div>
 
         <div class="col-10">
-            <div class="tab-content shadow mb-5" id="pills-tabContent">
+            <div class="tab-content border-0 mb-5" id="pills-tabContent">
                 <div class="tab-pane fade show active" id="pills-1" role="tabpanel">
                     @include('dashboard.tab-1.tab')
                 </div>
@@ -121,9 +119,5 @@
             </div>
         </div>
     </div>
+</div>
 
-@endsection
-
-@section('after_scripts')
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-@endsection

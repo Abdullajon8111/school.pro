@@ -2,7 +2,7 @@
 
 </div>
 
-<div class="container px-5 mt-4">
+<div class="container mt-4">
     <div class="row">
         <div class="col-lg-6">
             <div class="d-flex">
@@ -63,8 +63,8 @@
     </div>
 </div>
 
-<div class="container mt-4 px-5">
-    <nav class="navbar navbar-expand-lg navbar-light bg-white mb-4 shadow-sm">
+<nav class="navbar navbar-expand-lg navbar-light bg-white my-4 shadow-sm">
+    <div class="container">
         <a class="navbar-brand" href="#"></a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup">
@@ -81,5 +81,5 @@
                 <a class="nav-link" href="#">Nodavlat ta'lim muassasalari</a>
             </div>
         </div>
-    </nav>
-</div>
+    </div>
+</nav>
