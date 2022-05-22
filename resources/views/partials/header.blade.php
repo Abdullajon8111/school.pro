@@ -78,7 +78,7 @@
                 <a class="nav-link" href="{{ route('ak-khk.index') }}">O'rta-maxsus ta'lim muassasalari</a>
                 <a class="nav-link" href="#">Oliy ta'lim ta'lim muassasalari</a>
                 <a class="nav-link" href="#">Malaka oshirish institutlari</a>
-                <a class="nav-link" href="#">Nodavlat ta'lim muassasalari</a>
+                <a class="nav-link" href="{{ route('ntt.index') }}">Nodavlat ta'lim muassasalari</a>
             </div>
         </div>
     </div>

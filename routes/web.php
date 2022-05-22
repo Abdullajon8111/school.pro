@@ -18,3 +18,4 @@ Route::view('school', 'school.index')->name('school.index');
 Route::view('more', 'school.more')->name('school.more');
 
 Route::view('ak-khk', 'ak-khk.index')->name('ak-khk.index');
+Route::view('ntt', 'ntt.index')->name('ntt.index');
