@@ -75,7 +75,7 @@
             <div class="navbar-nav text-center">
                 <a class="nav-link" href="#">Maktabgacha ta'lim muassasalari </a>
                 <a class="nav-link" href="{{ route('school.index') }}">Umumiy o'rta talim muassasalari</a>
-                <a class="nav-link" href="#">O'rta-maxsus ta'lim muassasalari</a>
+                <a class="nav-link" href="{{ route('ak-khk.index') }}">O'rta-maxsus ta'lim muassasalari</a>
                 <a class="nav-link" href="#">Oliy ta'lim ta'lim muassasalari</a>
                 <a class="nav-link" href="#">Malaka oshirish institutlari</a>
                 <a class="nav-link" href="#">Nodavlat ta'lim muassasalari</a>
