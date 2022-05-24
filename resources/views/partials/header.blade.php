@@ -46,7 +46,7 @@
                 <a class="nav-link" href="{{ route('mtt.index') }}">Maktabgacha ta'lim muassasalari </a>
                 <a class="nav-link" href="{{ route('school.index') }}">Umumiy o'rta talim muassasalari</a>
                 <a class="nav-link" href="{{ route('ak-khk.index') }}">Professional ta'lim muassasalari</a>
-                <a class="nav-link" href="#">Oliy ta'lim muassasalari</a>
+                <a class="nav-link" href="{{ route('otm.index') }}">Oliy ta'lim muassasalari</a>
                 <a class="nav-link" href="{{ route('kmo.index') }}">Malaka oshirish institutlari</a>
                 <a class="nav-link" href="{{ route('ntt.index') }}">Nodavlat ta'lim muassasalari</a>
             </div>

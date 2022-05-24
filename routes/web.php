@@ -21,3 +21,4 @@ Route::view('ak-khk', 'ak-khk.index')->name('ak-khk.index');
 Route::view('ntt', 'ntt.index')->name('ntt.index');
 Route::view('mtt', 'mtt.index')->name('mtt.index');
 Route::view('kmo', 'kmo.index')->name('kmo.index');
+Route::view('otm', 'otm.index')->name('otm.index');
