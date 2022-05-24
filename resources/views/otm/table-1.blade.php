@@ -28,7 +28,6 @@
 
                 <div class="modal-body">
 
-
                     <table class="table table-sm table-bordered">
                         <tr>
                             <td rowspan="2">№</td>

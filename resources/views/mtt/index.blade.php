@@ -19,21 +19,27 @@
                 </div>
             </div>
 
-{{--            <div class="col-lg-6">--}}
-{{--                <div class="card">--}}
-{{--                    <div class="card-body">--}}
+            <div class="col-lg-12 mb-4">
+                @include('mtt.1-2-table-more')
+            </div>
 
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-body">
+                        @include('mtt.sheet-2')
+                    </div>
+                    @include('mtt.sheet-2-more')
+                </div>
+            </div>
 
-{{--            <div class="col-lg-6">--}}
-{{--                <div class="card">--}}
-{{--                    <div class="card-body">--}}
-
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-body">
+                        @include('mtt.sheet-6')
+                    </div>
+                    @include('mtt.sheet-6-more')
+                </div>
+            </div>
         </div>
     </div>
 @endsection
