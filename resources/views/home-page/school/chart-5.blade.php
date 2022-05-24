@@ -7,13 +7,13 @@
             type: 'radar',
             data: {
                 labels: [
-                    'Қорақалпоғистон Республикаси', 'Андижон вилояти', 'Бухоро вилояти',
-                    'Жиззах вилояти', 'Қашқадарё вилояти', 'Навоий вилояти',
-                    'Наманган вилояти', 'Самарқанд вилояти', 'Сурхондарё вилояти',
-                    'Сирдарё вилояти', 'Тошкент вилояти', 'Фарғона вилояти', 'Хоразм вилояти', 'Тошкент шаҳри'
+                    'Qoraqalpog‘iston Respublikasi', 'Andijon viloyati', 'Buxoro viloyati',
+                    'Jizzax viloyati', 'Qashqadaryo viloyati', 'Navoiy viloyati',
+                    'Namangan viloyati', 'Samarqand viloyati', 'Surxondaryo viloyati',
+                    'Sirdaryo viloyati', 'Toshkent viloyati', 'Farg‘ona viloyati', 'Xorazm viloyati', 'Toshkent shahri'
                 ],
                 datasets: [{
-                    label: 'Шаҳар',
+                    label: 'Shahar',
                     data: [51, 103, 58, 74, 107, 41, 148, 108, 28, 35, 145, 158, 67, 340],
                     backgroundColor: '#166a8f',
                     borderColor: 'rgba(151, 187, 205, 0.8)',
@@ -21,7 +21,7 @@
                     highlightStroke: 'rgba(151, 187, 205, 1)',
                     borderWidth: 1
                 }, {
-                    label: 'Туман',
+                    label: 'Tuman',
                     data: [160, 144, 61, 48, 88, 66, 134, 117, 160, 44, 94, 86, 57, 0],
                     backgroundColor: '#f53794',
                     borderColor: 'rgba(151, 187, 205, 0.8)',
@@ -29,7 +29,7 @@
                     highlightStroke: 'rgba(151, 187, 205, 1)',
                     borderWidth: 1
                 }, {
-                    label: 'Қишлоқ',
+                    label: 'Qishloq',
                     data: [489, 520, 413, 374, 843, 188, 423, 951, 681, 237, 613, 667, 417, 0],
                     backgroundColor: '#4dc9f6',
                     borderColor: 'rgba(151, 187, 205, 0.8)',
@@ -38,7 +38,7 @@
                     borderWidth: 1,
                     hidden: true
                 }, {
-                    label: 'Олис ҳудудларда',
+                    label: 'Olis hududlarda',
                     data: [26, 0, 5, 57, 179, 73, 7, 91, 64, 2, 32, 48, 8, 0],
                     backgroundColor: '#8549ba',
                     borderColor: 'rgba(151, 187, 205, 0.8)',
@@ -64,7 +64,7 @@
                     },
                     title: {
                         display: true,
-                        text: 'жойлашув'
+                        text: 'Umumiy o‘rta ta’lim maktablarining joylashuvga ko’ra turlari (Hududlar kesimida)'
                     }
                 }
             },

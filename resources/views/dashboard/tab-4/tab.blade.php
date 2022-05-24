@@ -1,6 +1,5 @@
 <h4 class="p-3 text-center">
-    "2021-2022 ўқув йилида халқ таълими тизимидаги фанларни чуқурлаштирилиб ўқитишга ихтисослаштирилган мактаб
-    ва мактаб-интернатлари тўғрисида МАЪЛУМОТ (2021 йил 6 сентябрь ҳолати)"
+    2021-2022 o‘quv yilida xalq ta’limi tizimidagi fanlarni chuqurlashtirilib o‘qitishga ixtisoslashtirilgan maktab va maktab-internatlari to‘g‘risida MA’LUMOT (2021 yil 6 sentabr holati)
 </h4>
 
 <div class="row">

@@ -7,10 +7,10 @@
             type: 'doughnut',
             data: {
                 labels: [
-                    'Қорақалпоғистон Республикаси', 'Андижон вилояти', 'Бухоро вилояти',
-                    'Жиззах вилояти', 'Қашқадарё вилояти', 'Навоий вилояти',
-                    'Наманган вилояти', 'Самарқанд вилояти', 'Сурхондарё вилояти',
-                    'Сирдарё вилояти', 'Тошкент вилояти', 'Фарғона вилояти', 'Хоразм вилояти', '	Тошкент шаҳри'
+                    'Qoraqalpog‘iston Respublikasi', 'Andijon viloyati', 'Buxoro viloyati',
+                    'Jizzax viloyati', 'Qashqadaryo viloyati', 'Navoiy viloyati',
+                    'Namangan viloyati', 'Samarqand viloyati', 'Surxondaryo viloyati',
+                    'Sirdaryo viloyati', 'Toshkent viloyati', 'Farg‘ona viloyati', 'Xorazm viloyati', '	Toshkent shahri'
                 ],
                 datasets: [{
                     label: 'maktablar',
@@ -42,7 +42,7 @@
                     },
                     title: {
                         display: true,
-                        text: 'мактаб'
+                        text: 'Umumiy o‘rta ta’lim maktablari soni (Hududlar kesimida)'
                     },
                 }
             },

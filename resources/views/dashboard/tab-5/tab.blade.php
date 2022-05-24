@@ -1,6 +1,6 @@
 <h4 class="p-3 text-center">
-    "2021-2022 ўқув йилида xалқ таълими тизимидаги мактабларнинг шаҳар, туман маркази, қишлоқ
-    ва олис ҳудудларда жойлашганлиги ҳақида маълумот"                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+2021-2022 o‘quv yilida xalq ta’limi tizimidagi maktablarning shahar, tuman markazi, qishloq
+    va olis hududlarda joylashganligi haqida ma’lumot
 </h4>
 
 <div class="row">

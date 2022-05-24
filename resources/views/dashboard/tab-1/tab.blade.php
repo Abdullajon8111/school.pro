@@ -1,5 +1,5 @@
-<h4 class="p-3 text-center">"2021-2022 ўқув йилида халқ таълими тизимида фаолият кўрсатаётган
-    умумий ўрта таълим мактаблари ҳақида маълумот  (2021 йил 20 сентябрь ҳолати)"
+<h4 class="p-3 text-center"> 2021-2022 o‘quv yilida xalq ta’limi tizimida faoliyat ko‘rsatayotgan
+    umumiy o‘rta ta’lim maktablari haqida ma’lumot  (2021 yil 20 sentyabr holati)
 </h4>
 
 <div class="row">

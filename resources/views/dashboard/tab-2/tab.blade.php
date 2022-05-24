@@ -1,6 +1,6 @@
 <h4 class="p-3 text-center">
-    "2021-2022 ўқув йилида xалқ таълими тизимидаги умумий ўрта таълим мактабларида  барча ўқитиш тиллари бўйича жами
-    ўқувчилар сони тўғрисида маълумот (2021 йил 20 сентябрь ҳолати)                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+2021-2022 o‘quv yilida xalq ta’limi tizimidagi umumiy o‘rta ta’lim maktablarida  barcha o‘qitish tillari bo‘yicha jami
+    o‘quvchilar soni to‘g‘risida ma’lumot (2021 yil 20 sentyabr holati)
 </h4>
 
 <div class="row">

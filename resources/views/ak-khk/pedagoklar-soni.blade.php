@@ -43,7 +43,7 @@
                     },
                     title: {
                         display: true,
-                        text: 'педагоклар сони'
+                        text: 'Professional taʼlim muassasalarida faoliyat yuritayotgan pedagog kadrlar soni (Hududlar kesimida)'
                     },
                 }
             },

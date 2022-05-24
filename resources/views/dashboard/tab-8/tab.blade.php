@@ -1,6 +1,6 @@
 <h4 class="p-3 text-center">
-    "2021-2022 ўқув йилида халқ таълими тизимидаги умумий ўрта таълим мактабларида
-    чет тилларни ўқитилиши ҳақида маълумот (2021 йил 15 сентябрь ҳолатига)"                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+    2021-2022 o‘quv yilida xalq ta’limi tizimidagi umumiy o‘rta ta’lim maktablarida
+    chet tillarni o‘qitilishi haqida ma’lumot (2021 yil 15 sentyabr holatiga)
 </h4>
 
 <div class="row">

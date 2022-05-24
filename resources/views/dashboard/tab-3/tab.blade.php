@@ -1,6 +1,6 @@
 <h4 class="p-3 text-center">
-    "2021-2022 ўқув йилида халқ таълими тизимидаги умумий ўрта таълим мактабларида
-    таълим олиш тили бўйича мактаблар сони ҳақида маълумот (2021 йил 6 сентябрь ҳолатига)"
+2021-2022 o‘quv yilida xalq ta’limi tizimidagi umumiy o‘rta ta’lim maktablarida
+    ta’lim olish tili bo‘yicha maktablar soni haqida ma’lumot (2021 yil 6 sentyabr holatiga)
 </h4>
 
 <div class="row">

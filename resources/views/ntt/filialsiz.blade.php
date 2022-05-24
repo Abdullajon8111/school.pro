@@ -98,7 +98,7 @@
                     },
                     title: {
                         display: true,
-                        text: 'Filialsiz'
+                        text: 'Respublika miqyosida nodavlat taʼlim sohasida faoliyat koʻrsatayotgan yuridik shaxslar toʻgʻrisida maʼlumot (Filialsiz)'
                     },
                 }
             },

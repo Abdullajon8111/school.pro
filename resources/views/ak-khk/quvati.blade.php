@@ -41,7 +41,7 @@
                     },
                     title: {
                         display: true,
-                        text: 'қувати'
+                        text: 'Professional taʼlim muassasalari quvvati (Hududlar kesimida)'
                     },
                 }
             },

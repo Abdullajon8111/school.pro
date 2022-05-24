@@ -13,24 +13,24 @@
         <colgroup width="116"></colgroup>
         <tbody>
         <tr>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="62" align="center" valign="middle" bgcolor="#CCFFFF"><b><font face="Times New Roman" size="3">Т/р</font></b></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><b><font face="Times New Roman" size="3">Ҳудуд номи</font></b></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">1-синф</font></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">2-синф</font></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">3-синф</font></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">4-синф</font></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">5-синф</font></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">6-синф</font></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">7-синф</font></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">8-синф</font></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">9-синф</font></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">10-синф </font></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">11-синф</font></td>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 2px solid #000000; border-right: 2px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">1-11 синф ўқувчи лар сони</font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="62" align="center" valign="middle" bgcolor="#CCFFFF"><b><font face="Times New Roman" size="3">T/r</font></b></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><b><font face="Times New Roman" size="3">Hudud nomi</font></b></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">1-sinf</font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">2-sinf</font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">3-sinf</font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">4-sinf</font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">5-sinf</font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">6-sinf</font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">7-sinf</font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">8-sinf</font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">9-sinf</font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">10-sinf </font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 1px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">11-sinf</font></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 2px solid #000000; border-right: 2px solid #000000" align="center" valign="middle" bgcolor="#CCFFFF"><font face="Times New Roman" size="3">1-11 sinf o‘quvchi lar soni</font></td>
         </tr>
         <tr>
             <td style="border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="50" align="center" valign="middle" sdval="1" sdnum="1033;"><font face="Times New Roman" size="3">1</font></td>
-            <td style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Қорақалпоғистон Республикаси</font></td>
+            <td style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Qoraqalpog‘iston Respublikasi</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="33681" sdnum="1033;"><font face="Times New Roman" size="3">33681</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="36780" sdnum="1033;"><font face="Times New Roman" size="3">36780</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="35451" sdnum="1033;"><font face="Times New Roman" size="3">35451</font></td>
@@ -46,7 +46,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="2" sdnum="1033;"><font face="Times New Roman" size="3">2</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Андижон вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Andijon viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="51660" sdnum="1033;"><font face="Times New Roman" size="3">51660</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="61279" sdnum="1033;"><font face="Times New Roman" size="3">61279</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="56208" sdnum="1033;"><font face="Times New Roman" size="3">56208</font></td>
@@ -62,7 +62,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="3" sdnum="1033;"><font face="Times New Roman" size="3">3</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Бухоро вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Buxoro viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="25496" sdnum="1033;"><font face="Times New Roman" size="3">25496</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="34095" sdnum="1033;"><font face="Times New Roman" size="3">34095</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="32288" sdnum="1033;"><font face="Times New Roman" size="3">32288</font></td>
@@ -78,7 +78,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="4" sdnum="1033;"><font face="Times New Roman" size="3">4</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Жиззах вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Jizzax viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="24675" sdnum="1033;"><font face="Times New Roman" size="3">24675</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="26707" sdnum="1033;"><font face="Times New Roman" size="3">26707</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="24321" sdnum="1033;"><font face="Times New Roman" size="3">24321</font></td>
@@ -94,7 +94,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="5" sdnum="1033;"><font face="Times New Roman" size="3">5</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Қашқадарё вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Qashqadaryo viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="61679" sdnum="1033;"><font face="Times New Roman" size="3">61679</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="66444" sdnum="1033;"><font face="Times New Roman" size="3">66444</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="63852" sdnum="1033;"><font face="Times New Roman" size="3">63852</font></td>
@@ -110,7 +110,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="6" sdnum="1033;"><font face="Times New Roman" size="3">6</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Навоий вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Navoiy viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="17913" sdnum="1033;"><font face="Times New Roman" size="3">17913</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="18907" sdnum="1033;"><font face="Times New Roman" size="3">18907</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="17680" sdnum="1033;"><font face="Times New Roman" size="3">17680</font></td>
@@ -126,7 +126,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="7" sdnum="1033;"><font face="Times New Roman" size="3">7</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Наманган вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Namangan viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="50630" sdnum="1033;"><font face="Times New Roman" size="3">50630</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="52947" sdnum="1033;"><font face="Times New Roman" size="3">52947</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="49779" sdnum="1033;"><font face="Times New Roman" size="3">49779</font></td>
@@ -142,7 +142,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="8" sdnum="1033;"><font face="Times New Roman" size="3">8</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Самарқанд вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Samarqand viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="75115" sdnum="1033;"><font face="Times New Roman" size="3">75115</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="77034" sdnum="1033;"><font face="Times New Roman" size="3">77034</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="72619" sdnum="1033;"><font face="Times New Roman" size="3">72619</font></td>
@@ -158,7 +158,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="9" sdnum="1033;"><font face="Times New Roman" size="3">9</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Сурхондарё вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Surxondaryo viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="53574" sdnum="1033;"><font face="Times New Roman" size="3">53574</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="52986" sdnum="1033;"><font face="Times New Roman" size="3">52986</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="50620" sdnum="1033;"><font face="Times New Roman" size="3">50620</font></td>
@@ -174,7 +174,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="10" sdnum="1033;"><font face="Times New Roman" size="3">10</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Сирдарё вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Sirdaryo viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="13091" sdnum="1033;"><font face="Times New Roman" size="3">13091</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="15720" sdnum="1033;"><font face="Times New Roman" size="3">15720</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="14977" sdnum="1033;"><font face="Times New Roman" size="3">14977</font></td>
@@ -190,7 +190,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="11" sdnum="1033;"><font face="Times New Roman" size="3">11</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Тошкент вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Toshkent viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="45298" sdnum="1033;"><font face="Times New Roman" size="3">45298</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="51899" sdnum="1033;"><font face="Times New Roman" size="3">51899</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="49512" sdnum="1033;"><font face="Times New Roman" size="3">49512</font></td>
@@ -206,7 +206,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="12" sdnum="1033;"><font face="Times New Roman" size="3">12</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Фарғона вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Farg‘ona viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="61584" sdnum="1033;"><font face="Times New Roman" size="3">61584</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="70780" sdnum="1033;"><font face="Times New Roman" size="3">70780</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="65313" sdnum="1033;"><font face="Times New Roman" size="3">65313</font></td>
@@ -222,7 +222,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="13" sdnum="1033;"><font face="Times New Roman" size="3">13</font></td>
-            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Хоразм вилояти</font></td>
+            <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Xorazm viloyati</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="33442" sdnum="1033;"><font face="Times New Roman" size="3">33442</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="35837" sdnum="1033;"><font face="Times New Roman" size="3">35837</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="32834" sdnum="1033;"><font face="Times New Roman" size="3">32834</font></td>
@@ -238,7 +238,7 @@
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-left: 2px solid #000000; border-right: 1px solid #000000" height="33" align="center" valign="middle" sdval="14" sdnum="1033;"><font face="Times New Roman" size="3">14</font></td>
-            <td style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Тошкент шаҳри</font></td>
+            <td style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 2px solid #000000" align="left" valign="middle"><font face="Times New Roman" size="3">Toshkent shahri</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="37198" sdnum="1033;"><font face="Times New Roman" size="3">37198</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="46374" sdnum="1033;"><font face="Times New Roman" size="3">46374</font></td>
             <td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" sdval="46779" sdnum="1033;"><font face="Times New Roman" size="3">46779</font></td>
@@ -253,7 +253,7 @@
             <td style="border-bottom: 1px solid #000000; border-left: 2px solid #000000; border-right: 2px solid #000000" align="center" valign="middle" sdval="470232" sdnum="1033;"><b><font face="Times New Roman" size="3">470232</font></b></td>
         </tr>
         <tr>
-            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 2px solid #000000; border-right: 2px solid #000000" colspan="2" height="50" align="center" valign="middle" bgcolor="#C0C0C0"><b><font face="Times New Roman" size="3">Жами:</font></b></td>
+            <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-left: 2px solid #000000; border-right: 2px solid #000000" colspan="2" height="50" align="center" valign="middle" bgcolor="#C0C0C0"><b><font face="Times New Roman" size="3">Jami:</font></b></td>
             <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#C0C0C0" sdval="585036" sdnum="1033;0;#,##0"><b><font face="Times New Roman" size="3">585,036</font></b></td>
             <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#C0C0C0" sdval="647789" sdnum="1033;0;#,##0"><b><font face="Times New Roman" size="3">647,789</font></b></td>
             <td style="border-top: 2px solid #000000; border-bottom: 2px solid #000000; border-right: 1px solid #000000" align="center" valign="middle" bgcolor="#C0C0C0" sdval="612233" sdnum="1033;0;#,##0"><b><font face="Times New Roman" size="3">612,233</font></b></td>

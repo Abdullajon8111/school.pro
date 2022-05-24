@@ -41,7 +41,7 @@
                     },
                     title: {
                         display: true,
-                        text: 'ўқувчилар сони'
+                        text: 'Professional taʼlim muassasalarida taʼlim olayotgan oʻquvchilar soni (Hududlar kesimida)'
                     },
                 }
             },

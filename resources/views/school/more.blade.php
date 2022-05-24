@@ -4,64 +4,64 @@
             <ul class="nav flex-column nav-pills mb-3" id="pills-tab" role="tablist" aria-orientation="vertical">
                 <li class="nav-item">
                     <a class="nav-link active" id="pills-tab-1" data-toggle="pill" href="#pills-1" role="tab">
-                        1ж-мактаб
+                        Maktablar soni
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" id="pills-tab-2" data-toggle="pill" href="#pills-2" role="tab">
-                        2ж-ўқувчи
+                        O‘quvchilar soni
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" id="pills-tab-3" data-toggle="pill" href="#pills-3" role="tab">
-                        3ж-талим тили
+                        Ta'lim tili
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" id="pills-tab-4" data-toggle="pill" href="#pills-4" role="tab">
-                        4ж-ихт
+                        Ixtisoslashtirilgan maktablar
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" id="pills-tab-5" data-toggle="pill" href="#pills-5" role="tab">
-                        5ж-жойлашув
+                        Maktablarning joylashuvi
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" id="pills-tab-6" data-toggle="pill" href="#pills-6" role="tab">
-                        6ж-филиал
+                        Maktablarning filiallari
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" id="pills-tab-7" data-toggle="pill" href="#pills-7" role="tab">
-                        7ж-қизлар
+                        O‘quvchilar soni qizlar
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" id="pills-tab-8" data-toggle="pill" href="#pills-8" role="tab">
-                        8ж-чет тили
+                        Chet tillari o‘qitilishi
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" id="pills-tab-9" data-toggle="pill" href="#pills-9" role="tab">
-                        9ж-бошқа чет тили
+                        Boshqa chet tillari o‘qitilishi
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" id="pills-tab-10" data-toggle="pill" href="#pills-10" role="tab">
-                        10ж-смена
+                        Ta'lim olish navbatlari
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a class="nav-link" id="pills-tab-11" data-toggle="pill" href="#pills-11" role="tab">
-                        11ж-коэф.т
+                        Maktablar koeffitsienti
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a class="nav-link" id="pills-tab-12" data-toggle="pill" href="#pills-12" role="tab">
-                        12ж-қувват+ўқувчи
+                        Maktablar quvvati
                     </a>
                 </li>
             </ul>

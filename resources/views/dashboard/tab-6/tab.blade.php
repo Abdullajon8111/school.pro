@@ -1,6 +1,6 @@
 <h4 class="p-3 text-center">
-    "2021-2022 ўқув йилида xалқ таълими тизимидаги умумий ўрта таълим мактабларининг
-    филиаллари бўйича умумий маълумот"                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+    2021-2022 o‘quv yilida xalq ta’limi tizimidagi umumiy o‘rta ta’lim maktablarining
+    filiallari bo‘yicha umumiy ma’lumot
 </h4>
 
 <div class="row">

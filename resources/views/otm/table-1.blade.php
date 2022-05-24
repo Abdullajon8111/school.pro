@@ -18,7 +18,7 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <h4 class="text-center">
-                        Respublika miqyosida nodavlat taʼlim sohasida faoliyat koʻrsatayotgan yuridik shaxslar toʻgʻrisida maʼlumot
+                        2021-yil Attestatsiyaga jalb qilingan OTM lar natijalari
                     </h4>
 
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">

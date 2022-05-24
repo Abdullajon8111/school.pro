@@ -1,6 +1,6 @@
 <h4 class="p-3 text-center">
-    "2021-2022 ўқув йилида халқ таълими тизимидаги умумий ўрта таълим мактабларида ўқувчилар таълим олишларининг
-    навбатлилиги (сменность) ҳақида маълумот (2021 йил 20 сентябрь ҳолати)"                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+2021-2022 o‘quv yilida xalq ta’limi tizimidagi umumiy o‘rta ta’lim maktablarida o‘quvchilar ta’lim olishlarining
+    navbatliligi (smennost) haqida ma’lumot (2021 yil 20 sentyabr holati)                                                                                                                                                                                                                                                                                                                                                                                                                                      
 </h4>
 
 <div class="row">
